@@ -1,5 +1,6 @@
 [package]
 name = "const-sort"
+description = "Sort a slice of elements in constant time (with respect to slice length)."
 version = "0.1.0"
 authors = ["Jeremy Rubin <j@rubin.io>"]
 edition = "2018"
