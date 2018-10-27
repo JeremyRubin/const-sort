@@ -5,6 +5,7 @@ authors = ["Jeremy Rubin <j@rubin.io>"]
 edition = "2018"
 license = "MPL-2.0"
 categories = ["algorithms", "cryptography"]
+repository = "https://github.com/JeremyRubin/const-sort"
 
 [dependencies]
 subtle = "1.0.0"
